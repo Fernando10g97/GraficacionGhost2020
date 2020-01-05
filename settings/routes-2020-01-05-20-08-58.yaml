@@ -5,7 +5,7 @@ collections:
     permalink: /{slug}/
     filter: 'tag:-en'
   /en/:
-    permalink: /en/{slug}/
+    permalink: /de/{slug}/
     filter: 'tag:en'
 
 taxonomies:
